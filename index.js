@@ -35,5 +35,5 @@ http.createServer((req,res)=>{
         });
     }
 }).listen(3000,()=>{
-    console.log('Listeninig on port  6969.....');
+    console.log('Listeninig on port  3000.....');
 });
